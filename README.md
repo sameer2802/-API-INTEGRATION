@@ -20,3 +20,7 @@
 
 ## To enhance the user experience, I applied custom CSS styles to create a sleek and responsive design. The weather app features a glass-like container over a blurred background image, providing a professional look while maintaining readability. The interface adapts well to different screen sizes using media queries, making it mobile-friendly. This project taught me how to combine design with functionality using HTML, CSS, and JavaScript. I also learned about using external APIs, managing API keys securely, and handling asynchronous operations efficiently. Through this internship task, I gained hands-on experience in integrating third-party services and learned how real-time data can enhance web applications. I also understood the importance of clean UI/UX design principles and efficient error handling. Overall, this project was a great learning journey in terms of both front-end development and understanding how cloud-based data services like OpenWeatherMap work under the hood.
 
+## OUPUT :
+
+![Image](https://github.com/user-attachments/assets/3c0de14a-07b1-4a97-88e1-93fb0a311648)
+
